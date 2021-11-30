@@ -1,4 +1,4 @@
-package br.com.daianebellon.modelo;
+package br.com.daianebellon.forum.modelo;
 
 public enum StatusTopico {
 	
